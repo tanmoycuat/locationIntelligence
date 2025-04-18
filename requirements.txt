@@ -1,0 +1,24 @@
+# Core packages
+streamlit==1.44.1
+pandas==2.2.3
+numpy==2.2.4
+
+# Database connectivity
+pyodbc==5.2.0
+sqlalchemy==2.0.40
+python-dotenv==1.0.1
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.13.4
+
+# Data visualization
+folium==0.19.5
+streamlit-folium==0.15.1
+plotly==6.0.1
+
+# Geocoding
+geopy==2.4.1
+
+# Excel export
+openpyxl==3.1.5
